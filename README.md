@@ -35,8 +35,13 @@
 - npm install @mui/x-charts
 - npm install @mui/x-tree-view
 
-## Google Fonts
+## Google Fonts & Icons
 - https://fonts.google.com/icons?icon.set=Material+Icons&selected=Material+Icons+Outlined:settings
+- https://fonts.google.com/specimen/Roboto
+
+## Diagram
+- https://app.eraser.io/
+- https://app.diagrams.net/
 
 ## Dashboard:
 - Dashboard
